@@ -1,0 +1,15 @@
+h1 { text-align: center;
+    color: rgb(47, 63, 32);
+}
+
+h2 { color: rgb(145, 80, 0);
+    font-size: medium;
+    text-align: right;
+}
+
+h3 { color: rgb(40, 77, 77);
+    border-style: double;
+}
+
+body { background-color: rgb(192, 192, 192);
+}
